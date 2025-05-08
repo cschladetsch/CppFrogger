@@ -1,0 +1,63 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+out/
+bin/
+lib/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+install_manifest.txt
+
+# IDE-specific files
+.vscode/
+.idea/
+*.user
+*.userprefs
+*.suo
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj*
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+*.ko
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+*.la
+*.lai
+
+# Executables
+*.exe
+*.out
+*.app
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+**/.claude/settings.local.json

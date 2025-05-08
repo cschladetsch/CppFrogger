@@ -1,0 +1,12 @@
+This folder is provided to add your own TrueType fonts to the game.
+
+Place a TrueType font (.ttf file) in this directory and update the font loading code
+in Game.cpp to use it.
+
+Example TTF fonts with open licenses:
+- Liberation Sans (https://github.com/liberationfonts/liberation-fonts)
+- Roboto (https://github.com/google/roboto)
+- Open Sans (https://github.com/google/fonts/tree/main/apache/opensans)
+- Source Sans Pro (https://github.com/adobe-fonts/source-sans-pro)
+
+All of these fonts can be freely downloaded and used.
