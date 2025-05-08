@@ -14,6 +14,10 @@ This is a modern C++ implementation of the classic arcade game Frogger. The game
 - Lives system
 - Start, pause, and game over screens
 
+## Demo
+
+![Image](resources/Demo.jpg)
+
 ## Requirements
 
 - C++23 compatible compiler
